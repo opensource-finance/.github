@@ -29,7 +29,7 @@
 Our flagship project. A single-binary, real-time transaction monitoring engine.
 
 - **60-Second Deploy** — No Kubernetes. No microservices. Just download and run.
-- **Secure by Design** — Built with lessons from protecting national payment rails.
+- **Secure by Design** — Sandboxed CEL rules, tenant isolation and a readable reason trail for every decision.
 - **Open Source** — Apache 2.0. Run it on your infrastructure. Own your data.
 
 > *Transaction monitoring for everyone who isn't a bank.*
@@ -69,9 +69,11 @@ Visual rule IDE and simulation environment for Osprey rules. Compose CEL express
 
 ---
 
-## Our Heritage
+## About
 
-We're engineers who built fraud detection systems for national payment infrastructure. Now we're making that same rigor accessible to everyone.
+opensource.finance is a new, independent project. Osprey has its own Go codebase. It is not a fork or a continuation of Tazama, and it has no affiliation with Tazama, the Linux Foundation or the Gates Foundation.
+
+It was started by [Joseph Goksu](https://github.com/josephgoksu), who worked on Tazama as one of its founding engineers. Small payment firms need real transaction monitoring, but large platforms need a team to run them. Osprey is for the smaller team: one binary that one engineer can run.
 
 🌐 **[opensource.finance](https://opensource.finance)**
 

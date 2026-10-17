@@ -71,9 +71,9 @@ Visual rule IDE and simulation environment for Osprey rules. Compose CEL express
 
 ## About
 
-opensource.finance is a new, independent project. Osprey has its own Go codebase. It is not a fork or a continuation of Tazama, and it has no affiliation with Tazama, the Linux Foundation or the Gates Foundation.
+Small payment firms need real transaction monitoring, but most monitoring platforms need a platform team to run them. Osprey is for the smaller team: one Go binary that one engineer can run, with rules an auditor can read.
 
-It was started by [Joseph Goksu](https://github.com/josephgoksu), who worked on Tazama as one of its founding engineers. Small payment firms need real transaction monitoring, but large platforms need a team to run them. Osprey is for the smaller team: one binary that one engineer can run.
+opensource.finance was started by [Joseph Goksu](https://github.com/josephgoksu), previously one of the founding engineers on Tazama.
 
 🌐 **[opensource.finance](https://opensource.finance)**
 
